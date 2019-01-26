@@ -3,7 +3,7 @@ This module generates a router from a folder, to allow easy implied route loadin
 
 ## Sample usage:
 ``` Javascript
-var RouteLoader = require('express_route_loader');
+var RouteLoader = require('express_route_generator');
 var router = RouterLoader.Attach('/', './routes');
 var Express = require('express');
 var App = Express();

@@ -1,6 +1,6 @@
 {
-  "name": "express_route_loader",
-  "version": "1.0.0",
+  "name": "express_route_generator",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
